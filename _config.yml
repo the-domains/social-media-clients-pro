@@ -1,0 +1,37 @@
+typography_spectrum: 0.34087771573103964
+color:
+  brandColors:
+    - '#212B2D'
+    - '#1F2428'
+    - '#201913'
+    - '#050B0B'
+    - '#0E0F13'
+  brandStrength: 0.9410521723330021
+  lightness: 0.045683628180995584
+  saturation: 0.680989806773141
+  rhythmicContrast: 0.16305344086140394
+layout_spectrum: 0.45603025518357754
+name: Social Media Clients Pro
+url: 'http://socialmediaclientspro.com'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Home
+    url: 'http://socialmediaclientspro.com'
+    type: external
+title: Social Media Clients Pro
+content: []
+description: Creating More Clients From Social Media
+purpose:
+  - type: contact
+    url: 'mailto:support@socialmediaclientspro.com'
+    label: Ask For Our $0 (FREE) Consultation Package
+  - type: contact
+    url: 'tel:+18098627187'
+    label: Call +18098627187
+github: true
