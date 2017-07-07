@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-07-07T20:37:34.790Z'
-datePublished: '2017-07-07T20:37:35.017Z'
+dateModified: '2017-07-07T20:38:38.644Z'
+datePublished: '2017-07-07T20:38:38.895Z'
 title: >-
   According to a brand new study from Sysomos, a social media software provider,
   and Marketwired, a business news data channel, 40%of all investors surveyed
