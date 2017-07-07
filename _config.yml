@@ -10,6 +10,7 @@ color:
   lightness: 0.045683628180995584
   saturation: 0.680989806773141
   rhythmicContrast: 0.16305344086140394
+github: true
 layout_spectrum: 0.45603025518357754
 name: Social Media Clients Pro
 url: 'http://socialmediaclientspro.com'
@@ -21,7 +22,7 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: Home
+  - name: About Us
     url: 'http://socialmediaclientspro.com'
     type: external
 title: Social Media Clients Pro
@@ -34,4 +35,3 @@ purpose:
   - type: contact
     url: 'tel:+18098627187'
     label: Call +18098627187
-github: true
