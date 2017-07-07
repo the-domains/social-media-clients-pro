@@ -22,7 +22,7 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: About Us
+  - name: Home
     url: 'http://socialmediaclientspro.com'
     type: external
   - name: About Us
