@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Did you know that more professionals are turning prospects into customers
   using social media?
-dateModified: '2017-07-07T20:38:38.644Z'
-datePublished: '2017-07-07T20:38:38.907Z'
+dateModified: '2017-07-08T21:03:09.184Z'
+datePublished: '2017-07-08T21:03:09.361Z'
 title: ''
 author: []
 publisher: {}
@@ -16,6 +16,6 @@ datePublishedOriginal: '2017-07-07T19:31:19.623Z'
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d79bc42-e613-4dd1-9bb8-57443fac75d4.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/117d9cd3-ba22-4a1d-bd16-a3bc48ed8beb.jpg)
 
 Did you know that more professionals are turning prospects into customers using social media?
