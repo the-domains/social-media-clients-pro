@@ -59,6 +59,9 @@ purpose:
   - type: contact
     url: 'mailto:support@socialmediaclientspro.com'
     label: Feel Free To Ask Us For Our $0 (FREE) Consultation Package
+  - type: contact
+    url: 'tel:3026080700'
+    label: 'You Can Contact Us Anytime '
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d254ecb-c8ba-4b37-9d73-bdbac596e720.png
 logo: >-
