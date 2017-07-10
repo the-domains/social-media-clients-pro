@@ -1,15 +1,15 @@
 ---
 inFeed: true
-description: 'Then, let’s get to work.   '
-dateModified: '2017-07-07T22:21:12.728Z'
-datePublished: '2017-07-07T22:21:13.218Z'
+description: 'Then, let’s get to work. '
+dateModified: '2017-07-10T03:21:19.077Z'
+datePublished: '2017-07-10T03:21:19.244Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-07-07-then-lets-get-to-work.md
 starred: false
 datePublishedOriginal: '2017-07-07T22:21:13.218Z'
-sourcePath: _posts/2017-07-07-then-lets-get-to-work.md
 _type: Blurb
 
 ---
