@@ -12,6 +12,8 @@ color:
   rhythmicContrast: 0.16305344086140394
 github: true
 layout_spectrum: 0.45603025518357754
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a00f667-29ee-4cc1-984c-37f054aca952.png
 name: Social Media Clients Pro
 url: 'http://socialmediaclientspro.com'
 colors:
@@ -28,6 +30,11 @@ navigation:
   - name: About Us
     id: 089bc911-16ac-4003-96bd-0e9c14a2bed2
     type: content
+  - name: The Cosmetic Surgeon Media Pro
+    id: 33912889-25b4-4007-a7e8-bf9af403b7a8
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d254ecb-c8ba-4b37-9d73-bdbac596e720.png
 title: Social Media Clients Agency
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -59,7 +66,3 @@ purpose:
   - type: contact
     url: 'mailto:support@socialmediaclientspro.com'
     label: Feel Free To Ask Us For Our $0 (FREE) Consultation Package
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d254ecb-c8ba-4b37-9d73-bdbac596e720.png
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a00f667-29ee-4cc1-984c-37f054aca952.png
