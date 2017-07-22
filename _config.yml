@@ -30,11 +30,11 @@ navigation:
   - name: The Cosmetic Surgeon Media Pro
     id: 33912889-25b4-4007-a7e8-bf9af403b7a8
     type: content
-  - name: About Us
-    id: 089bc911-16ac-4003-96bd-0e9c14a2bed2
-    type: content
   - name: Car Dealers Media Pro
     id: 7f6418e9-ad93-44fb-8ce5-6e322ed422c0
+    type: content
+  - name: About Us
+    id: 089bc911-16ac-4003-96bd-0e9c14a2bed2
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d254ecb-c8ba-4b37-9d73-bdbac596e720.png
