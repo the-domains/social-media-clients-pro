@@ -1,10 +1,10 @@
 ---
 inFeed: false
 description: >-
-  A cosmetic surgeon is a professional that needs the engagement of  people to
-  make their business grow. 
-dateModified: '2017-07-24T22:38:48.873Z'
-datePublished: '2017-07-24T22:38:49.261Z'
+  A cosmetic surgeon is a professional that needs the engagement of people to
+  make their business grow.
+dateModified: '2017-07-24T22:45:16.228Z'
+datePublished: '2017-07-24T22:45:16.402Z'
 title: The Cosmetic Surgeon Media Package Pro
 author: []
 publisher: {}
@@ -20,7 +20,7 @@ _type: Blurb
 # **The Cosmetic Surgeon Media Package Pro**
 
 A cosmetic surgeon is a professional that needs the engagement of   
-people to make their business grow. 
+people to make their business grow.
 
 Social Media can definitely impact a Cosmetic Surgeon's Business,   
 call it a Cosmetic Dentist or Plastic Surgeon.
@@ -34,16 +34,27 @@ swelling neck skin and hide some belly buttons, or whitening those
 not-so-white-coffee-stained teeth when taking a picture.  
 This has definitely encouraged more people to go to a Cosmetic   
 Surgeon to change their appearances and look great online, all  
-the time. 
+the time.
 
-So if you are a Cosmetic Surgeon, are you leveraging the popularity  
-and influence of the Social Media Channels to grow your business,  
-gain more reputation and become a leader at your industry?
+_**Reputation cannot be left alone**_
+
+Social Media has given Cosmetic Surgeons, like Plastic Surgeons   
+and Cosmetic Dentist Surgeons the never-before seen ability to   
+embrace all the good and the bad about cosmetic surgeons. And  
+as never before, more people are going to Cosmetic Surgeons to   
+make a change in their bodies so shift a permanent change in   
+their mind and self-esteem for the rest of their lives. 
+
+_So if you are a Cosmetic Surgeon, ask yourself these questions:_
+
+Are you leveraging the popularity and influence of the Social Media   
+Channels to grow your business,gain more reputation and become   
+a reputable and prominent leader at your industry?
 
 Do you have a website?
 
 Are you using Social Media Channels efficiently?
 
 If you are not sure about those answers, feel free to ask for our   
-$0 FREE Consultation Package with an effective Social Media  
-Audit
+$0 **FREE Consultation Package with an effective Social Media  
+Audit**
