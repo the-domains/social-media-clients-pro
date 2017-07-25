@@ -1,8 +1,8 @@
 ---
-inFeed: false
+inFeed: true
 description: 'An article from the New York from April 9th, 2015, revealed that'
-dateModified: '2017-07-25T02:30:54.758Z'
-datePublished: '2017-07-25T02:30:55.559Z'
+dateModified: '2017-07-25T15:13:43.143Z'
+datePublished: '2017-07-25T15:13:43.362Z'
 title: Car Dealers Media Package Pro
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-07-22T16:20:36.583Z'
 url: car-dealers-media-package-pro/index.html
-_type: Blurb
+_type: Article
 
 ---
 # **Car Dealers Media Package Pro**
@@ -30,7 +30,7 @@ the survey of 10,000 buyers revealed that
 Some challenges restaurant/bar owners encounter is that whether they do not what  
 type of content to post, how often they should, how much to spend in effective ad-  
 vertising and how to build a broad-base of hunrgy-loyal customers.
-[Ask For Our $0 FREE Consultation Package][2]
+[Fell Free To Ask For Our $0 FREE Consultation Package][2]
 
 [0]: https://www.nytimes.com/2015/04/10/automobiles/the-gap-between-auto-dealers-and-social-media.html?mcubz=0 "The Gap Between Auto Dealers and Social Media"
 [1]: https://www.capgemini.com/cars-online-2014 "Cars Online 2014 Generation Connnected"
