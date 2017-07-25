@@ -1,10 +1,10 @@
 ---
-inFeed: false
+inFeed: true
 description: >-
   A cosmetic surgeon is a professional that needs the engagement of people to
   make their business grow.
-dateModified: '2017-07-24T22:45:16.228Z'
-datePublished: '2017-07-24T22:45:16.402Z'
+dateModified: '2017-07-25T20:34:17.597Z'
+datePublished: '2017-07-25T20:34:17.978Z'
 title: The Cosmetic Surgeon Media Package Pro
 author: []
 publisher: {}
@@ -14,7 +14,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-07-22T16:20:08.576Z'
 url: the-cosmetic-surgeon-media-package-pro/index.html
-_type: Blurb
+_type: Article
 
 ---
 # **The Cosmetic Surgeon Media Package Pro**
@@ -43,7 +43,7 @@ and Cosmetic Dentist Surgeons the never-before seen ability to
 embrace all the good and the bad about cosmetic surgeons. And  
 as never before, more people are going to Cosmetic Surgeons to   
 make a change in their bodies so shift a permanent change in   
-their mind and self-esteem for the rest of their lives. 
+their mind and self-esteem for the rest of their lives.
 
 _So if you are a Cosmetic Surgeon, ask yourself these questions:_
 
@@ -56,5 +56,4 @@ Do you have a website?
 Are you using Social Media Channels efficiently?
 
 If you are not sure about those answers, feel free to ask for our   
-$0 **FREE Consultation Package with an effective Social Media  
-Audit**
+**$0****FREE Consultation Social Media Package **
