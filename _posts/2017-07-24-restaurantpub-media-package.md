@@ -2,11 +2,11 @@
 inFeed: true
 description: >-
   The AdWeek, a leading source of news for marketing, media, and advertising
-  professionals, published on November 2013, that ¨80% Of Restaurants  Use
-  Social Media For Marketing¨according to one study conducted by  Ipsos MediaCT
-  on behalf of Groupon and the National Restaurant  Association.
-dateModified: '2017-07-25T02:24:49.317Z'
-datePublished: '2017-07-25T02:24:50.255Z'
+  professionals, published on November 2013, that ¨80% Of Restaurants Use Social
+  Media For Marketing¨according to one study conducted by Ipsos MediaCT on
+  behalf of Groupon and the National Restaurant Association.
+dateModified: '2017-07-25T15:13:43.143Z'
+datePublished: '2017-07-25T15:13:43.352Z'
 title: Restaurant/Bar Media Package
 author: []
 publisher: {}
@@ -30,7 +30,7 @@ Association**.
 
 If you don´t know what to post, how often you should post, or how could you save  
 hundreds of dollars with effective advertising, we can help.
-[Ask for our $0 FREE Consultation Package][1]
+[Feel Free To Ask For Our $0 FREE Consultation Package][1]
 
 [0]: http://www.adweek.com/digital/restaurant-marketing/ "80% Of Restaurants Use Social Media For Marketing [STUDY]"
 [1]: http://socialmediaclientspro.com/
