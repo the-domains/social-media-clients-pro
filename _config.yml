@@ -41,7 +41,7 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d254ecb-c8ba-4b37-9d73-bdbac596e720.png
-title: Social Media Clients Agency
+title: Social Media Clients Pro
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
