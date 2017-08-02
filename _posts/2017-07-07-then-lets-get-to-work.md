@@ -1,9 +1,9 @@
 ---
 inFeed: true
-description: 'Then, let’s get to work.'
-dateModified: '2017-07-25T20:34:17.597Z'
-datePublished: '2017-07-25T20:34:17.937Z'
-title: ''
+description: ''
+dateModified: '2017-08-02T20:58:01.477Z'
+datePublished: '2017-08-02T20:58:01.621Z'
+title: 'Then, let’s get to work.'
 author: []
 publisher: {}
 via: {}
@@ -13,9 +13,9 @@ datePublishedOriginal: '2017-07-07T22:21:13.218Z'
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/881a7da8-1cf7-484c-9b07-ac5aa8f274bd.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e739685-5770-4876-8a88-56c303204f6a.png)
+[Tell us what are you struggling with at: support@socialmediaclientspro.com][0]
 
-<button data-role="cta" style="">Tell us what are you struggling with                                          
-support@socialmediaclientspro.com</button>
+### Then, let's get to work.
 
-Then, let's get to work.
+[0]: http://socialmediaclientspro.com/
