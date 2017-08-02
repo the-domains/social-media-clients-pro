@@ -3,24 +3,26 @@ inFeed: true
 description: >-
   Social Media platforms have dramatically changed they way the candidates
   interact with their voters and viceversa.
-dateModified: '2017-08-02T20:58:01.477Z'
-datePublished: '2017-08-02T20:58:01.619Z'
-title: The Political Developer / Personality Media Package Pro
+dateModified: '2017-08-02T21:04:46.969Z'
+datePublished: '2017-08-02T21:04:47.495Z'
+title: The Political Personality / Social Personality Media Package Pro
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-08-02-the-political-developer-media-package-pro.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-08-02T20:15:06.526Z'
-_type: Blurb
+url: the-political-personality-social-personality-media-package/index.html
+_type: Article
 
 ---
-## **The Political Developer / Personality Media Package Pro**
+# **The Political Personality / Social Personality Media Package Pro**
 
 Social Media platforms have dramatically changed they way the candidates interact with   
 their voters and viceversa.
 
-According to **[ThouughtCo.com][0]**, a self-defined 'leading source of learning information',
+According to **[ThoughtCo.com][0]**, a self-defined 'leading source of learning information',
 
 > The prevalence of social media in politics has made elected officials and candidates for public office more accountable and accessible to voters. And the ability to publish content and broadcast it to millions of people instantaneously allows campaigns to carefully manage their candidates' images based on rich sets of analytics in real time and at almost no cost.
 
