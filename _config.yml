@@ -1,4 +1,3 @@
-layout_spectrum: 0.4552022864110768
 typography_spectrum: 0.34894073906151746
 color:
   brandColors:
@@ -12,6 +11,7 @@ color:
   saturation: 0.426379145158381
   rhythmicContrast: 0.6146508276401697
 github: true
+layout_spectrum: 0.4552022864110768
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a00f667-29ee-4cc1-984c-37f054aca952.png
 name: Social Media Clients Pro
@@ -38,6 +38,9 @@ navigation:
     type: content
   - name: About Us
     id: 089bc911-16ac-4003-96bd-0e9c14a2bed2
+    type: content
+  - name: The Political Personality / Social Personality Media Package Pro
+    id: e40f4e66-23e5-473e-bd15-def048736b51
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d254ecb-c8ba-4b37-9d73-bdbac596e720.png
