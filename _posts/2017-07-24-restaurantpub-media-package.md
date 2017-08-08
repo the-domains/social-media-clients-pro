@@ -5,9 +5,9 @@ description: >-
   professionals, published on November 2013, that ¨80% Of Restaurants Use Social
   Media For Marketing¨according to one study conducted by Ipsos MediaCT on
   behalf of Groupon and the National Restaurant Association.
-dateModified: '2017-07-25T20:34:17.597Z'
-datePublished: '2017-07-25T20:34:17.967Z'
-title: Restaurant/Bar Media Package
+dateModified: '2017-08-08T15:12:02.777Z'
+datePublished: '2017-08-08T15:12:03.283Z'
+title: Restaurant/ Bar Media Package Pro
 author: []
 publisher: {}
 via: {}
@@ -19,7 +19,7 @@ url: restaurantpub-media-package/index.html
 _type: Article
 
 ---
-# **Restaurant/Bar Media Package**
+# **Restaurant/ Bar Media Package Pro**
 
 The AdWeek, a leading source of news for marketing, media, and advertising professionals, [published on November 2013][0], that **¨80% Of Restaurants   
 Use Social Media For Marketing¨**according to one study conducted by   
