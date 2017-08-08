@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'An article from the New York from April 9th, 2015, revealed that'
-dateModified: '2017-07-25T20:34:17.597Z'
-datePublished: '2017-07-25T20:34:17.975Z'
+dateModified: '2017-08-08T15:12:02.777Z'
+datePublished: '2017-08-08T15:12:03.279Z'
 title: Car Dealers Media Package Pro
 author: []
 publisher: {}
