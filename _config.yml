@@ -1,17 +1,17 @@
-typography_spectrum: 0.34894073906151746
+layout_spectrum: 0.11422686496334575
+typography_spectrum: 0.3426848786787158
 color:
   brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
-  brandStrength: 0.17116470738055906
-  lightness: 0.922001257592554
-  saturation: 0.426379145158381
-  rhythmicContrast: 0.6146508276401697
+    - '#FFFFFF'
+    - '#000000'
+    - '#D70015'
+    - '#929292'
+    - '#414141'
+  brandStrength: 0.13126356174616088
+  lightness: 0.830357825544174
+  saturation: 0.6938538650761699
+  rhythmicContrast: 0.11170689922674458
 github: true
-layout_spectrum: 0.4552022864110768
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a00f667-29ee-4cc1-984c-37f054aca952.png
 name: Social Media Clients Pro
