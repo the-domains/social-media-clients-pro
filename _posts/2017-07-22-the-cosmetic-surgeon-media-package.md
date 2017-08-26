@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   A cosmetic surgeon is a professional that needs the engagement of people to
   make their business grow.
-dateModified: '2017-07-25T20:34:17.597Z'
-datePublished: '2017-07-25T20:34:17.978Z'
+dateModified: '2017-08-26T01:55:53.542Z'
+datePublished: '2017-08-26T01:55:55.025Z'
 title: The Cosmetic Surgeon Media Package Pro
 author: []
 publisher: {}
@@ -45,7 +45,7 @@ as never before, more people are going to Cosmetic Surgeons to
 make a change in their bodies so shift a permanent change in   
 their mind and self-esteem for the rest of their lives.
 
-_So if you are a Cosmetic Surgeon, ask yourself these questions:_
+_**So if you are a Cosmetic Surgeon, ask yourself these questions:**_
 
 Are you leveraging the popularity and influence of the Social Media   
 Channels to grow your business,gain more reputation and become   
@@ -55,5 +55,7 @@ Do you have a website?
 
 Are you using Social Media Channels efficiently?
 
-If you are not sure about those answers, feel free to ask for our   
-**$0****FREE Consultation Social Media Package **
+If you are not sure about those answers,
+[Feel Free To Ask For Our $0 FREE Consultation Package][0]
+
+[0]: http://socialmediaclientspro.com/
