@@ -49,6 +49,9 @@ navigation:
   - name: The Power Of I AM
     url: 'http://socialmediaclientspro.com/ThePowerOfIAm'
     type: external
+  - name: The Power Of I AM
+    id: bd0b7afd-3e81-4cdf-8c15-c742ba28ae41
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d254ecb-c8ba-4b37-9d73-bdbac596e720.png
 title: Social Media Clients Pro
