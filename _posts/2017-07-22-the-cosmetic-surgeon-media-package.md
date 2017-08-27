@@ -1,13 +1,18 @@
 ---
 inFeed: true
-description: >-
-  A cosmetic surgeon is a professional that needs the engagement of people to
-  make their business grow.
-dateModified: '2017-08-26T01:55:53.542Z'
-datePublished: '2017-08-26T01:55:55.025Z'
+description: '   “Learn how social media like Instagram, YouTube, Facebook and Twitter are helping Cosmetic Plastic Surgeons make more money with surgical and non-surgical options”'
+dateModified: '2017-08-27T04:13:42.794Z'
+datePublished: '2017-08-27T04:13:43.739Z'
 title: The Cosmetic Surgeon Media Package Pro
-author: []
-publisher: {}
+author:
+  - name: Lauren Hubbard
+    url: 'https://fashionista.com/author/lauren-hubbard'
+    avatar: {}
+publisher:
+  url: 'https://fashionista.com'
+  name: Fashionista
+  favicon: 'https://fashionista.com/favicon.ico'
+  domain: fashionista.com
 via: {}
 sourcePath: _posts/2017-07-22-the-cosmetic-surgeon-media-package.md
 hasPage: true
@@ -18,6 +23,12 @@ _type: Article
 
 ---
 # **The Cosmetic Surgeon Media Package Pro**
+
+_"Learn how social media like Instagram, YouTube, Facebook and Twitter are helping Cosmetic Plastic Surgeons make more money with surgical and non-surgical options"_
+
+---
+
+### (https://fashionista.com/2016/11/negative-effects-of-social-media-culture)
 
 A cosmetic surgeon is a professional that needs the engagement of   
 people to make their business grow.
