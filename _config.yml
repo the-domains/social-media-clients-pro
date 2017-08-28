@@ -46,9 +46,6 @@ navigation:
   - name: About Us
     id: 089bc911-16ac-4003-96bd-0e9c14a2bed2
     type: content
-  - name: The Power Of I AM
-    id: bd0b7afd-3e81-4cdf-8c15-c742ba28ae41
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d254ecb-c8ba-4b37-9d73-bdbac596e720.png
 title: Social Media Clients Pro
