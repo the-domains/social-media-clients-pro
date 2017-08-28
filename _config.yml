@@ -58,6 +58,6 @@ purpose:
   - type: contact
     url: 'mailto:support@socialmediaclientspro.com'
     label: Feel Free To Ask Us For Our $0 (FREE) Consultation Package
-  - type: external
-    url: 'http://socialmediaclientspro.com/freesocialmediareport'
+  - type: internal
     label: Free Report "Three Basic Strategies For Social Media Success"
+    item: bd0b7afd-3e81-4cdf-8c15-c742ba28ae41
