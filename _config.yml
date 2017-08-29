@@ -46,6 +46,9 @@ navigation:
   - name: About Us
     id: 089bc911-16ac-4003-96bd-0e9c14a2bed2
     type: content
+  - name: Other Social Media Packages
+    id: d4a49988-cd0f-4eb6-b1fe-750b86346ca7
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d254ecb-c8ba-4b37-9d73-bdbac596e720.png
 title: Social Media Clients Pro
@@ -58,19 +61,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a4517e8-f39a-480e-b03b-51bfe855387a.png
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
