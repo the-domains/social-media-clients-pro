@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-29T14:02:13.925Z'
-datePublished: '2017-08-29T14:02:15.141Z'
-title: 'Other Packages '
+dateModified: '2017-08-29T14:03:46.323Z'
+datePublished: '2017-08-29T14:03:46.812Z'
+title: Other Packages
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-29-other-packages.md
 starred: false
 datePublishedOriginal: '2017-08-29T14:02:15.141Z'
-sourcePath: _posts/2017-08-29-other-packages.md
 url: other-packages/index.html
 _type: Article
 
