@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: 'https://michael1259.typeform.com/to/eXrFr6'
-dateModified: '2017-09-01T20:57:24.266Z'
-datePublished: '2017-09-01T20:57:24.402Z'
+description: 'http://eepurl.com/c1eP_b'
+dateModified: '2017-09-02T23:21:42.921Z'
+datePublished: '2017-09-02T23:21:43.554Z'
 title: ''
 author: []
 publisher: {}
@@ -13,4 +13,4 @@ datePublishedOriginal: '2017-09-01T15:53:06.370Z'
 _type: Blurb
 
 ---
-https://michael1259.typeform.com/to/eXrFr6
+http://eepurl.com/c1eP\_b
