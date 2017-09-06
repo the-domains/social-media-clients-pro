@@ -79,9 +79,6 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Creating More Clients From Social Media
 purpose:
-  - type: contact
-    url: 'mailto:support@socialmediaclientspro.com'
-    label: Feel Free To Ask For Our $0 FREE Consultation Package
   - type: external
     label: Free Report "Three Basic Social Media Strategies For Success"
     url: 'http://eepurl.com/c1eP_b'
