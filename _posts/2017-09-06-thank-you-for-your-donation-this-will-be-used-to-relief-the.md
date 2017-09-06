@@ -3,18 +3,18 @@ inFeed: true
 description: >-
   Thank You For Your Donation. This will be used to relief the victims of the
   HurricaneIrma for the Dominican Republic and Haiti.
-dateModified: '2017-09-06T13:00:44.587Z'
-datePublished: '2017-09-06T13:11:01.700Z'
+dateModified: '2017-09-06T13:11:58.165Z'
+datePublished: '2017-09-06T13:11:58.362Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 isBasedOnUrl: >-
   https://the-grid.github.io/ed-location/?latitude=18.4436860722399&longitude=-69.9336231406778&zoom=16&address=El%20Cacique%2C%20Santo%20Domingo%20de%20Guzm%C3%A1n%2C%20Santo%20Domingo%2C%20Dominican%20Republic
-starred: false
-datePublishedOriginal: '2017-09-06T13:11:01.700Z'
 sourcePath: >-
   _posts/2017-09-06-thank-you-for-your-donation-this-will-be-used-to-relief-the.md
+starred: false
+datePublishedOriginal: '2017-09-06T13:11:01.700Z'
 _type: MediaObject
 
 ---
