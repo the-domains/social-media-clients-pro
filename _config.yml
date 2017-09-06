@@ -31,7 +31,7 @@ navigation:
   - name: Home
     url: 'http://socialmediaclientspro.com'
     type: external
-  - name: Donations For Victims Of Hurricane Irma
+  - name: Helping Victims Of Hurricane Irma
     id: b3679b7d-a30a-4b0c-a3da-a80dcc010af1
     type: content
   - name: The Cosmetic Surgeon Media Pro
