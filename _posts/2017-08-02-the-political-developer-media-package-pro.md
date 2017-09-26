@@ -3,9 +3,9 @@ inFeed: true
 description: >-
   Social Media platforms have dramatically changed the way the personalities,
   influencers and businessmen interact with their audience and viceversa.
-dateModified: '2017-09-06T13:11:58.165Z'
-datePublished: '2017-09-06T13:11:58.363Z'
-title: The Personal Branding Media Package Pro
+dateModified: '2017-09-26T15:10:34.496Z'
+datePublished: '2017-09-26T15:10:35.540Z'
+title: The Personal Branding And Political Media Package Pro
 author: []
 publisher: {}
 via: {}
@@ -17,7 +17,7 @@ url: the-personal-branding-media-package-pro/index.html
 _type: Article
 
 ---
-# **The Personal Branding Media Package Pro**
+# **The Personal Branding And Political Media Package Pro**
 
 Social Media platforms have dramatically changed the way the personalities, influencers and businessmen interact with their audience and viceversa.
 
