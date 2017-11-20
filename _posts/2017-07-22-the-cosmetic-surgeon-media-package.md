@@ -4,8 +4,8 @@ description: >-
   “Learn how social media like Instagram, YouTube, Facebook and Twitter are
   helping Cosmetic Plastic Surgeons make more money with surgical and
   non-surgical options”
-dateModified: '2017-11-20T15:58:49.539Z'
-datePublished: '2017-11-20T15:58:50.135Z'
+dateModified: '2017-11-20T16:48:18.388Z'
+datePublished: '2017-11-20T16:48:18.789Z'
 title: The Cosmetic Surgeon Media Package Pro
 author:
   - name: Lauren Hubbard
@@ -21,8 +21,6 @@ url: the-cosmetic-surgeon-media-package-pro/index.html
 _type: Article
 
 ---
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJydVW1v2jAQ_r5fAf7AEtW4sElbFZqhtbBpEuuqln2Yqgm5iQvegh3FF7qK8N93dhII9EXThJDuzvc8vtybT9vdbuts_PnLRWsiV-JSZEar1letJOiMtbrdD69OTZTJFFrwkIqQgPgDx7_4ipdW8uFeqljfsySd8nnYVIpivaEkV7G4k0rEJAwtg75rNZ3YDPj8XOcKht4e09pIEMHrt2_w9-7t-9dFQQg1IgKpVVBCK82dIEsi4HrvfM9WFCpPEspz0NfAM6h8tno7DNt9qldZdYCS-4DZKiB9dsJ6hG5DDfo0zTToSCcBWQCkJiBUrIQCE6xv8SuCu1y5Wz2ggkp_XXJiJkTmbc9qc4lkFlj5b2gP_5DJ-Vxk_0VWYbd8fX-zoQ6yR-eve2Eohh4spGEzPD8Ld2JR3PykO5WluVl44PtBfx8z3WGm-5jpDrNzn-zcJ_vuk637hiaaP07jimct5eADI2Aql0Ln0MyBYjML3Evj7CWqARSFV1KyuqZH5PiYHJUBYxt0OrXEYr3kUg0P9IAkKbYGS3CAUjdATAkgPvKg2f7ZLzO0_RySI4e1sj-wIfAw1lG-xJqxKBMcxDgRVvNINV_-gGOjw0fAit7mIDwSLXiGFuy4oQjI9-mn7gnxqex0Dh1lTPBL6aHZZBGhyqfbi-cCqlvN2QP20AVfottC8Jj4DCNdej2f8TQVKj5fyCT2OGZV4oYIGpkviwhyKdU8bCpuipoGZuy8hZ4S960RfrFvA7C19MqUQFngahtwAB4txrarh49NHtHKlpfQZijYTHp5hfE_eKSWiL_BJqwZ4tjBJ9KAUDgmZPTt67lWYG1IJ14gjNCtZqTtvk-f5fznwCyN_9KqnGGDXYNOq1Z0LY4wl8hHRdiutLDdw-6v72lMQOUozUgvsf13CiLKUh1sETK5nBJqkzS7Gn8c_SB0DQFsMOhmYW_g55NV3VAsq6n2qhXd1Me3tQklZ4mg3twoOYuJRe1kRWdbaP27NjrZWcUqqPef1XF_OM12qYfb5-kn5yjsD06Py0HDd84-heOL0XMP4V_3bo19" height="244" style=""></iframe>
-
 # **The Cosmetic Surgeon Media Package Pro**
 
 _"Learn how social media like Instagram, YouTube, Facebook and Twitter are helping Cosmetic Plastic Surgeons make more money with surgical and non-surgical options"_
