@@ -2,11 +2,11 @@
 inFeed: false
 description: >-
   Social Media Clients Pro is a division of Consensio Holdings, LLC.Founded in
-  July 18th, 2017, Social Media Clients Pro seeks to helpsmall business owners
-  worldwide achieve revenue increase, byturning social media channels into
-  funnels of prospects, and then, into clients.
-dateModified: '2017-07-25T20:34:17.597Z'
-datePublished: '2017-07-25T20:34:17.934Z'
+  July 18th, 2017, Social Media Clients Pro seeks to helpmainly small and medium
+  business owners worldwide achieve revenue increase, by turning social media
+  channels into funnels of prospects and into clients.
+dateModified: '2017-12-20T19:05:08.027Z'
+datePublished: '2017-12-20T19:05:08.173Z'
 title: ''
 author: []
 publisher: {}
@@ -22,6 +22,6 @@ _type: Blurb
 ---
 Social Media Clients Pro is a division of Consensio Holdings, LLC.  
 Founded in July 18th, 2017, Social Media Clients Pro seeks to help  
-small business owners worldwide achieve revenue increase, by  
-turning social media channels into funnels of prospects, and then,   
-into clients.
+mainly small and medium business owners worldwide achieve revenue   
+increase, by turning social media channels into funnels of prospects   
+and into clients.
