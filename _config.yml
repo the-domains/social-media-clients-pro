@@ -31,6 +31,9 @@ navigation:
   - name: Home
     url: 'http://socialmediaclientspro.com'
     type: external
+  - name: The Personal Branding And Political Media Package Pro
+    id: e40f4e66-23e5-473e-bd15-def048736b51
+    type: content
   - name: The Cosmetic Surgeon Media Pro
     id: 33912889-25b4-4007-a7e8-bf9af403b7a8
     type: content
@@ -39,9 +42,6 @@ navigation:
     type: content
   - name: The Restaurant Media Pro
     id: db75a341-a6b9-4c09-a979-61342a2856fd
-    type: content
-  - name: The Personal Branding And Political Media Package Pro
-    id: e40f4e66-23e5-473e-bd15-def048736b51
     type: content
   - name: Other Social Media Packages
     id: d4a49988-cd0f-4eb6-b1fe-750b86346ca7
