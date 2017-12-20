@@ -1,17 +1,19 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   Social Media Clients Pro operates the http://www.socialmediaclientspro.com
   website, which provides the SERVICE.
-dateModified: '2017-12-20T19:04:35.597Z'
-datePublished: '2017-12-20T19:04:36.213Z'
+dateModified: '2017-12-20T19:05:37.757Z'
+datePublished: '2017-12-20T19:05:38.858Z'
 title: Privacy Policy
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-12-20-privacy-policy.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-12-20T19:04:36.213Z'
-sourcePath: _posts/2017-12-20-privacy-policy.md
+url: privacy-policy/index.html
 _type: Blurb
 
 ---
