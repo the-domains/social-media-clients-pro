@@ -4,8 +4,8 @@ description: >-
   “Learn how social media like Instagram, YouTube, Facebook and Twitter are
   helping Cosmetic Plastic Surgeons make more money with surgical and
   non-surgical options”
-dateModified: '2017-12-20T16:52:39.814Z'
-datePublished: '2017-12-20T16:52:39.994Z'
+dateModified: '2017-12-20T18:26:36.659Z'
+datePublished: '2017-12-20T18:26:36.999Z'
 title: The Cosmetic Surgeon Media Package Pro
 author:
   - name: Lauren Hubbard
