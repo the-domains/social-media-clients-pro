@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   The AdWeek, a leading source of news for marketing, media, and advertising
   professionals, published on November 2013, that ¨80% Of Restaurants Use Social
   Media For Marketing¨according to one study conducted by Ipsos MediaCT on
   behalf of Groupon and the National Restaurant Association.
-dateModified: '2017-12-20T18:26:36.659Z'
-datePublished: '2017-12-20T18:26:37.001Z'
+dateModified: '2018-01-08T18:06:11.042Z'
+datePublished: '2018-01-08T18:06:11.787Z'
 title: Restaurant/ Bar Media Package Pro
 author: []
 publisher: {}
@@ -16,11 +16,9 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-07-24T20:26:09.827Z'
 url: restaurantpub-media-package/index.html
-_type: Article
+_type: Blurb
 
 ---
----
-
 # **Restaurant/ Bar Media Package Pro**
 
 The AdWeek, a leading source of news for marketing, media, and advertising professionals, [published on November 2013][0], that **¨80% Of Restaurants   
@@ -28,13 +26,16 @@ Use Social Media For Marketing¨**according to one study conducted by
 **Ipsos MediaCT** on behalf of **Groupon **and the **National Restaurant   
 Association**.
 
+> The survey showed that 80 percent of U.S. restaurants use social media, good enough for first place overall ahead of email (63 percent), newspaper/magazine advertising (61 percent) and radio ads (37 percent).
+
+[Feel Free To Ask For Our $0 FREE Consultation Package][1]
+
 ---
 
-> The survey showed that 80 percent of U.S. restaurants use social media, good enough for first place overall ahead of email (63 percent), newspaper/magazine advertising (61 percent) and radio ads (37 percent).
+---
 
 If you don´t know what to post, how often you should post, or how could you save  
 hundreds of dollars with effective advertising, we can help.
-[Feel Free To Ask For Our $0 FREE Consultation Package][1]
 
 [0]: http://www.adweek.com/digital/restaurant-marketing/ "80% Of Restaurants Use Social Media For Marketing [STUDY]"
 [1]: http://socialmediaclientspro.com/
