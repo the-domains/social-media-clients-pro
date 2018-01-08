@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: ''
-dateModified: '2017-12-20T18:26:36.659Z'
-datePublished: '2017-12-20T18:26:37.003Z'
+dateModified: '2018-01-08T18:06:11.042Z'
+datePublished: '2018-01-08T18:06:11.797Z'
 title: Other Packages
 author: []
 publisher: {}
@@ -12,13 +12,13 @@ sourcePath: _posts/2017-08-29-other-packages.md
 starred: false
 datePublishedOriginal: '2017-08-29T14:02:15.141Z'
 url: other-packages/index.html
-_type: Article
+_type: Blurb
 
 ---
----
-
 # Other Packages
 
+<button data-role="cta" style="">Feel Free To Ask For Our $0 Consultation Package</button>
+
 ---
 
-<button data-role="cta" style="">Feel Free To Ask For Our $0 Consultation Package</button>
+---
